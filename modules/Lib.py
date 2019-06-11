@@ -1,5 +1,3 @@
-import numpy as np
-
 def Show_Text(text):
     print('Input value is: {0}'.format(text))
 
