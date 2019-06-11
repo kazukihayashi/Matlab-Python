@@ -1,7 +1,7 @@
 import numpy as np
 
 def Show_Text(text):
-    print('Input value is {0}'.format(text))
+    print('Input value is: {0}'.format(text))
 
 def Plus(a,b):
     return a+b
